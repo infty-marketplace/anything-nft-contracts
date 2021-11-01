@@ -55,11 +55,11 @@ Each directories in the reposetory are stanalone and contains the codebase for o
 
 ## Roadmap
 
-See the [open issues](https://github.com/inftkm/anything-nft-contracts/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/infty-marketplace/anything-nft-contracts/issues) for a list of proposed features (and known issues).
 
--   [Top Feature Requests](https://github.com/inftkm/anything-nft-contracts/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
--   [Top Bugs](https://github.com/inftkm/anything-nft-contracts/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
--   [Newest Bugs](https://github.com/inftkm/anything-nft-contracts/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+-   [Top Feature Requests](https://github.com/infty-marketplace/anything-nft-contracts/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+-   [Top Bugs](https://github.com/infty-marketplace/anything-nft-contracts/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+-   [Newest Bugs](https://github.com/infty-marketplace/anything-nft-contracts/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Contributing
 
