@@ -10,6 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.0"
+    "@openzeppelin/contracts": "^4.3.0",
+    "js-conflux-sdk": "^2.0.9"
+  },
+  "devDependencies": {
+    "babel-helpers": "^6.24.1",
+    "chai": "^4.3.6",
+    "conflux-truffle": "^1.0.1",
+    "ganache-cli": "^6.12.2"
   }
 }

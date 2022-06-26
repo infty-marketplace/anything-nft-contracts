@@ -43,4 +43,8 @@ contract InftyNft is ERC721URIStorage, ERC721Enumerable {
   {
       super._burn(_tokenId);
   }
+
+  function burn(uint256 _tokenId) external {
+    _burn(_tokenId);
+  }
 }
